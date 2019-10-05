@@ -1,0 +1,6 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB13,Económico,Negativo,Inversión inicial,Instalación equipo nuevo (FLOURECENTES 34 Watts  por LEDS 25 Watts),,Inicial (única vez),equipo,4,4,4,6380.55,5742.495,7656.66,ene-2020,dic-2039,,Lineal,,,
+CB51,Económico,Positivo,Reposición de equipos,Ahorro en reposición (FLOURECENTES 34 Watts  por LEDS 25 Watts),,Anual,equipo,4,4,4,34.10760383,30.69684344,40.92912459,ene-2020,dic-2039,,Lineal,,,
+CB89,Económico,Positivo,Ahorros,Ahorro en consumo variable (FLOURECENTES 34 Watts  por LEDS 25 Watts),,Cada mes,kwh,12.96,12.96,12.96,2.152,1.503,2.801,ene-2020,dic-2039,,Lineal,,,
+CB127,Económico,Positivo,Ahorros,Ahorro en consumo distr. (FLOURECENTES 34 Watts  por LEDS 25 Watts),,Cada mes,kw,0.036,0.036,0.036,148.5,148.5,148.5,ene-2020,dic-2039,,Lineal,,,
+CB165,Ambiental,Positivo,Externalidades,Reducción emisiones (FLOURECENTES 34 Watts  por LEDS 25 Watts),1,Cada mes,kgCO2,6.82992,6.82992,6.82992,1.17,0.78,1.56,ene-2020,dic-2039,1,Lineal,,,

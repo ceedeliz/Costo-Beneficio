@@ -1,0 +1,9 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB21,Económico,Positivo,Ahorros,Reducción de consumo tarifa GDMTO (Capac.),,Mensual,kw,79.45787902,79.45787902,79.45787902,334.345,225.02,443.67,ene-2020,dic-2039,,Lineal,,,
+CB22,Económico,Positivo,Ahorros,Reducción de consumo tarifa GDMTO (Fijo),,Mensual,lote,1,1,1,486.6,486.6,486.6,ene-2020,dic-2039,,Lineal,,,
+CB23,Económico,Positivo,Ahorros,Reducción de consumo tarifa GDMTO,,Mensual,kwh,5895.357532,5895.357532,5895.357532,1.212,0.87,1.554,ene-2020,dic-2039,,Lineal,,,
+CB24,Económico,Positivo,Ahorros,Reducción de consumo tarifa GDMTO (Distr.),,Mensual,kw,14.36490627,14.36490627,14.36490627,148.5,148.5,148.5,ene-2020,dic-2039,,Lineal,,,
+CB25,Económico,Positivo,Ahorros,Reducción de consumo tarifa GDMTO (Capac.),,Mensual,kw,14.36490627,14.36490627,14.36490627,265.565,178.73,352.4,ene-2020,dic-2039,,Lineal,,,
+CB33,Ambiental,Positivo,Externalidades,Reducción emisiones GDMTO,1,Mensual,kgCO2e,3106.85342,7.570305603,7.570305603,1.17,0.78,1.56,ene-2020,dic-2039,1,Lineal,,,
+CB41,Económico,Negativo,Inversión inicial,Instalación GDMTO,,Inicial (única vez),equipo,1,1,1,1131208.335,999559.5887,1262859.082,ene-2020,dic-2039,,Lineal,,,
+CB49,Económico,Negativo,Mantenimiento,Mantenimiento GDMTO,,Anual,equipo,1,1,1,5656.041676,4997.797944,6314.295409,ene-2020,dic-2039,,Lineal,,,

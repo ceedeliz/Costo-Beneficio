@@ -1,0 +1,5 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Económico,Positivo,Paneles solares,Electricidad domestica,0,Anual,kwh,1000,800,1400,4.7,4,5,ene-2015,dic-2039,0,Lineal,,,
+CB02,Ambiental,Positivo,Externalidades,Mitigación de TCO2e,1,Anual,kg,100,80,140,1,0.1,2,ene-2015,dic-2039,1,Lineal,,,
+CB03,Económico,Negativo,Inversion,costo e instalacion,0,Inicial (única vez),trabajo instalado,1,1,1,15000,18000,12000,ene-2015,feb-2015,0,Lineal,,,
+CB04,Ambiental,Negativo,Disposicion final,costo de manejo,0,Inicial (única vez),servicio,1,1,1,8000,10000,5000,dic-2039,dic-2039,1,Lineal,,,

@@ -1,0 +1,11 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Económico,Negativo,Desarrollo de documento guia,Contratación de consultoria,,Inicial (única vez),documento subreginal,1,1,1,"93,300",150000,80000,ago-2018,nov-2018,,Lineal,,,
+CB02,Económico,Negativo,Socialización,Edición de documento,,Inicial (única vez),documento editado,1,1,1,25000,40000,20000,jul-2019,oct-2019,,Lineal,,,
+CB03,Económico,Negativo,divulgación,talleres de socializació,,Inicial (única vez),talleres,3,2,3,15000,23000,10000,oct-2019,dic-2020,,Lineal,,,
+CB04,Económico,Negativo,Señaletica,diseño elaboración y colocación,0,Inicial (única vez),letreros,20,20,20,20000,28000,15000,ene-2020,jun-2020,0,Lineal,,,
+CB05,Económico,Negativo,Senderos turísticos,diseño y construcción,,Inicial (única vez),km,20,20,20,5000,7000,2500,abr-2020,abr-2020,,,,,
+CB06,Económico,Negativo,Capacitacion,Talleres de capacitación a guias,,Cada 2 años,personas capacitadas,25,30,25,5000,7000,4500,ene-2020,dic-2028,,,,,
+CB07,Económico,Negativo,Equipamiento,equipo campo de montaña,,Inicial (única vez),kits de equipo de montaña,25,30,25,2500,4000,2000,jul-2020,ago-2020,,,,,
+CB08,Económico,Positivo,ahorros en atención a incidentes,Rescates alpinos,,Mensual,personas rescatas,8,5,10,30000,50000,28000,ene-2022,dic-2029,,,,,
+CB09,Ambiental,Positivo,Erosión reducida,impacto reducido sobre cobertura vegetal,,Mensual,hectareas ,500,250,550,400,100,1000,ene-2022,dic-2029,,,,,
+CB10,Ambiental,Positivo,Servicios de limpia,ahorro en transporte de residuos solidos ,,Mensual,viajes de camion,2,0,3,5000,6500,3500,ene-2022,dic-2029,,,,,

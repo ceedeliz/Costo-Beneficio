@@ -1,0 +1,5 @@
+﻿ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Económico,Positivo,Ingresos,Venta de productos agrícolas,0,Mensual,ton,1,1,1,1020,1020,1020,feb-2016,dic-2016,,Lineal,,,
+CB02,Ambiental,Positivo,Externalidades,Captura de carbono,1,Mensual,tonCo2e,1,1,1,26.3,26.3,26.3,feb-2016,dic-2016,1,Lineal,,,
+CB03,Económico,Negativo,Inversión Inicial,Plantación,0,Inicial (única vez),Has,70,70,70,100,100,100,ene-2016,dic-2016,,Lineal,,,
+CB04,Económico,Negativo,Mantenimiento,Poda-fertilización-cosecha,0,Mensual,Jornales,7,7,7,50,50,50,feb-2016,dic-2016,0,Lineal,,,

@@ -1,0 +1,4 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3,
+CB01,Económico,Negativo,Direct costs,Rehabilitation costs,,Inicial (única vez),hectare,1,1,1,39254.7,22540.8,55968.6,ene-2020,dic-2069,,Lineal,,,,Costs for developing countries https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1890/15-1077
+CB02,Económico,Negativo,Direct costs,Maintenance and monitoring,,Anual,hectare,1,1,1,1962.735,1127.04,2798.43,ene-2021,dic-2069,,Lineal,,,,Assumption 5% per year
+CB03,Económico,Positivo,Externalities,Ecosystem services,1,Anual,hectare,1,1,1,116307,300,532696.8,ene-2020,dic-2069,1,Bass (Modelo de difusión),0.01,0.12,1,Mangroves value from https://www.sciencedirect.com/science/article/pii/S2212041612000101 considering PPP (http://data.worldbank.org/indicator/PA.NUS.PPPC.RF) of USA and Belize

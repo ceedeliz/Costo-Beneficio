@@ -1,0 +1,12 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Económico,Negativo,compra,indemnización de parcela,,Inicial (única vez),hectarea,130,130,130,1500000,2000000,1000000,ene-2021,feb-2021,0,Lineal,,,
+CB02,Económico,Negativo,tramites,hacer plan de manejo,,Inicial (única vez),documento,1,1,1,1000000,1500000,800000,abr-2021,ene-2022,0,Lineal,,,
+CB03,Ambiental,Negativo,tramites,estudio tecnico justificativo,,Inicial (única vez),documento,1,1,1,500000,300000,700000,feb-2021,jul-2021,0,Lineal,,,
+CB04,Económico,Negativo,acondicionamiento,hacer caminos torres y cercas,,Inicial (única vez),infraestructura,1,1,1,5000000,6000000,4000000,ene-2022,oct-2022,0,Lineal,,,
+CB05,Económico,Negativo,operacion del area,jefatura,,Mensual,nomina,1,1,1,20000,18000,22000,oct-2022,dic-2027,0,Lineal,,,
+CB06,Económico,Negativo,operacion del area,operativos,,Mensual,nomina,5,5,5,14000,12000,15000,oct-2022,dic-2027,0,Lineal,,,
+CB07,Económico,Negativo,operacion del area,mantenimiento,,Anual,pesos,1,1,1,200000,250000,180000,ene-2023,dic-2027,0,Lineal,,,
+CB08,Económico,Negativo,operacion del area,equpamiento,,Inicial (única vez),equipo,1,1,1,1250000,1500000,1000000,oct-2022,nov-2022,0,Lineal,,,
+CB09,Económico,Negativo,operacion del area,mantenimiento de equipo,,Anual,equipo,1,1,1,250000,500000,200000,ene-2023,dic-2027,0,Lineal,,,
+CB10,Económico,Positivo,atractivo turistico,pago de recorrido,,Anual,personas,5000,2000,10000,30,10,50,oct-2022,dic-2027,0,Lineal,,,
+CB11,Ambiental,Positivo,Servicios ecosistemicos,beneficios,,Anual,monetario,1,1,1,31181066,769080,2276035860,oct-2022,dic-2027,1,Lineal,,,

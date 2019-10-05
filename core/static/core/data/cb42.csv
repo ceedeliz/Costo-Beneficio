@@ -1,0 +1,6 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Económico,Negativo,Inversión,Compra e instalación de páneles solares,,Inicial (única vez),páneles,3,3,3,10000,12000,7000,ene-2020,feb-2020,0,Lineal,,,
+CB02,Económico,Negativo,Mantenimiento,Limpieza de páneles,,Cada 6 meses,servicio,1,1,1,1000,1300,800,jul-2020,jul-2039,0,Lineal,,,
+CB03,Económico,Negativo,Disposición final,Pago por desinstalación,,Inicial (única vez),servicio,1,1,1,5000,6000,4000,nov-2039,dic-2039,0,Lineal,,,
+CB04,Económico,Positivo,Ahorro,Ahorro en la factura de la CFE,,Cada 2 meses,pesos,1800,1500,1900,1,1,1,mar-2020,nov-2039,0,Lineal,,,
+CB05,Ambiental,Positivo,Mitigación,Reducción de CO2,,Cada 2 meses,kgCO2e,100,100,100,1,0.5,1.2,mar-2020,nov-2039,1,Lineal,,,

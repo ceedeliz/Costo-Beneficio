@@ -1,0 +1,6 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Económico,Positivo,Ahorros,Reducción consumo electricidad DAC consumo variable,,Mensual,kwh,594,400,788,5.07,5.07,5.07,ene-2020,dic-2039,,Lineal,,,
+CB02,Económico,Positivo,Ahorros,Reducción consumo electricidad DAC cargo fijo,,Mensual,kwh,1,1,1,107.58,107.58,107.58,ene-2020,dic-2039,,Lineal,,,
+CB03,Ambiental,Positivo,Externalidades,Reducción emisiones DAC,1,Mensual,kCO2e,313,211,415,1.17,0.78,1.56,ene-2020,dic-2039,1,Lineal,,,
+CB04,Económico,Negativo,Inversión inicial,Instalación DAC,,Inicial (única vez),equipo,1,1,1,162400,162400,211120,ene-2020,dic-2039,,Lineal,,,
+CB05,Económico,Negativo,Mantenimiento,Mantenimiento DAC,,Anual,equipo,1,1,1,812,812,1055.6,ene-2020,dic-2039,,Lineal,,,

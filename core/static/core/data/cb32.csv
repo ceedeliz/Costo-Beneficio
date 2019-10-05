@@ -1,0 +1,36 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3,
+CB01,Económico,Negativo,Podadoras,Clippers,,Cada 5 años,podadora,2,2,2,207,207,207,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB02,Económico,Negativo,Motosierras,Chainsaws,,Cada 5 años,motosierra,1,1,1,517.5,517.5,517.5,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB03,Económico,Negativo,Herramienta de trabajo,Tools,,Cada 5 años,lote,1,1,1,1035,1035,1035,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB04,Económico,Negativo,Bomba de agua,Water Pump,,Cada 5 años,bomba,1,1,1,310.5,310.5,310.5,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB05,Económico,Negativo,Terreno,Land,,Anual,hectárea,10,10,10,379.5,379.5,379.5,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB06,Económico,Negativo,Mirador,Lookout,,Inicial (única vez),mirador,1,1,1,1390.971,1390.971,1390.971,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB07,Económico,Negativo,Temazcal,Sauna,,Inicial (única vez),temazcal,1,1,1,634.11,634.11,634.11,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB08,Económico,Negativo,Costs,Zip line,,Inicial (única vez),tirolesa,1,1,1,7452,7452,7452,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB09,Económico,Negativo,Costs,Cabins,,Inicial (única vez),cabaña,5,5,5,2258.232,2258.232,2258.232,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB10,Económico,Negativo,Costs,Guardhouse,,Inicial (única vez),lote,1,1,1,1414.5,1414.5,1414.5,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB11,Económico,Negativo,Costs,Tourist path,,Inicial (única vez),lote,1,1,1,1380,1380,1380,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB12,Económico,Negativo,Costs,Septic tank,,Inicial (única vez),fosa,1,1,1,690,690,690,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB13,Económico,Negativo,Costs,Terrain conditioning,,Inicial (única vez),lote,1,1,1,828,828,828,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB14,Económico,Negativo,Costs,Gardening,,Inicial (única vez),lote,1,1,1,793.5,793.5,793.5,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB15,Económico,Negativo,Costs,Maintenance and guard team,,Inicial (única vez),lote,1,1,1,786.6,786.6,786.6,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB16,Económico,Negativo,Costs,Road construction,,Inicial (única vez),lote,1,1,1,414,414,414,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB17,Económico,Negativo,Costs,Water,,Mensual,mes,1,1,1,5.52,5.52,5.52,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB18,Económico,Negativo,Costs,Installation costs,,Inicial (única vez),lote,1,1,1,1569.75,1569.75,1569.75,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB19,Económico,Negativo,Costs,Permits and registrations,,Inicial (única vez),registro,1,1,1,503.7,503.7,503.7,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB20,Económico,Negativo,Costs,Marketing,,Anual,lote,1,1,1,2245.605,2245.605,2245.605,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB21,Económico,Negativo,Costs,Premium insurance,,Cada año,seguro,1,1,1,172.5,172.5,172.5,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB22,Económico,Negativo,Costs,Consultancy studies,,Inicial (única vez),estudio,1,1,1,2415,2415,2415,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB23,Económico,Negativo,Costs,Insurance,,Cada año,seguro,1,1,1,2070,2070,2070,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB24,Económico,Negativo,Costs,Advisory and supervision,,Cada año,lote,1,1,1,414,414,414,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB25,Económico,Negativo,Costs,Health permit,,Inicial (única vez),permiso,2,2,2,51.75,51.75,51.75,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB26,Económico,Positivo,Income,Lookout and zip line trail,,Anual,visitante,1440,1008,1440,3,3,3,ene-2020,dic-2029,,Logarítmica,0.1,0.18798988,1,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB27,Económico,Positivo,Income,Cabin rental,,Anual,renta,672,470,672,30,30,30,ene-2020,dic-2029,,Logarítmica,0.1,0.18798988,1,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB28,Económico,Positivo,Income,Sauna,1,Anual,temazcal,1536,1075.2,1536,15,15,15,ene-2020,dic-2029,,Logarítmica,0.1,0.18798988,1,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB29,Económico,Negativo,Salaries,Administrator,,Anual,sueldo,1,1,1,4730.05764,4730.05764,4730.05764,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB30,Económico,Negativo,Salaries,Zip line managers,,Anual,sueldo,1,1,1,3000,3000,3000,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB31,Económico,Negativo,Salaries,Accounting assistant,,Anual,sueldo,1,1,1,3163.7466,3163.7466,3163.7466,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB32,Económico,Negativo,Salaries,Temazcalero or guide,,Anual,sueldo,1,1,1,3203.9046,3203.9046,3203.9046,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB33,Económico,Negativo,Salaries,Cleaning person,,Anual,sueldo,1,1,1,2890.90404,2890.90404,2890.90404,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB34,Económico,Negativo,Salaries,Maintenance manager,,Anual,sueldo,1,1,1,3063.83184,3063.83184,3063.83184,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf
+CB35,Económico,Negativo,Salaries,Guard,,Anual,sueldo,1,1,1,2890.90404,2890.90404,2890.90404,ene-2020,dic-2029,,Lineal,,,,http://www.itzonamaya.edu.mx/web_biblio/archivos/res_prof/ige/ige-2015-26.pdf

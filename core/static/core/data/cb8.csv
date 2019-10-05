@@ -1,0 +1,6 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Económico,Negativo,Inversión Inicial,instalacion de paneles,,Inicial (única vez),paneles,3,3,3,10000,12000,7000,feb-2020,dic-2039,0,Lineal,,,
+CB02,Económico,Negativo,mantenimiento,limpieza,,Cada 6 meses,servicio,1,1,1,1000,1300,800,jul-2020,jul-2039,,Lineal,,,
+CB03,Económico,Negativo,disposicion final,pagopordesinstalacion,,Inicial (única vez),servicio,1,1,1,5000,6000,4000,nov-2039,dic-2039,,Lineal,,,
+CB04,Económico,Positivo,ahorro,recibo cfe,,Cada 2 meses,pesos,1800,1500,1900,1,1,1,mar-2019,nov-2039,1,Lineal,0.0025,0.02,0
+CB05,Ambiental,Positivo,mitigacion,reducciondemisiones,,Cada mes,kgco2e,100,100,100,1,0.5,1.2,mar-2019,nov-2039,1,Lineal,,,

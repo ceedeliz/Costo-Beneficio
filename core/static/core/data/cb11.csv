@@ -1,0 +1,9 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Económico,Negativo,Inversion,Equipamiento Infraestructura,,Inicial (única vez),hectareas,5,5,5,5000000,5000000,5000000,ene-2021,dic-2022,0,Lineal,,,
+CB02,Económico,Negativo,Costos Variables,Marketing Capacitacion,,Anual,eventos,4,2,4,500000,800000,400000,ene-2023,dic-2033,0,Lineal,,,
+CB03,Económico,Negativo,Sueldos,Sueldos y Salarios,,Anual,honorarios,12,10,15,120000,150000,100000,ene-2023,ene-2041,0,Lineal,,,
+CB04,Ambiental,Negativo,Costos Ambientales,Servicios Ecosistemicos,,Anual,hectareas,5,5,5,100000,100000,100000,ene-2021,ene-2041,1,Lineal,,,
+CB04,Ambiental,Negativo,Costos Ambientales,Residuos,,Anual,Toneladas,1,2,1,10000,12000,8000,ene-2021,ene-2041,0,Lineal,,,
+CB05,Económico,Positivo,Ingresos,Tour Senderismo,,Mensual,Entradas,800,500,1000,200,150,220,ene-2023,ene-2041,0,Lineal,,,
+CB06,Ambiental,Positivo,Beneficios Ambientales,Conservación de Serv Ecosistémicos,,Anual,hectareas,30,30,30,100000,100000,100000,ene-2023,ene-2041,0,Lineal,,,
+CB07,Ambiental,Positivo,Beneficios Ambientales,Captura de Carbono,,Anual,kgCo2e,3,2.7,3.5,26.3,10,30,ene-2023,ene-2041,0,Lineal,,,

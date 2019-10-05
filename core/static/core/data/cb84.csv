@@ -1,0 +1,4 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3,
+CB01,Económico,Negativo,Costos directos,Costos de restauración,,Inicial (única vez),ha,1,1,1,184320,3440,1214520,ene-2020,dic-2069,,Lineal,,,,Considera el costo para países en desarrollo de https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1890/15-1077
+CB02,Económico,Negativo,Costos directos,Mantenimiento y monitoreo,,Anual,ha,1,1,1,9216,172,60726,ene-2021,dic-2069,,Lineal,,,,Supone 5% anual
+CB03,Económico,Positivo,Externalidades,Servicios ecosistémicos,1,Anual,ha,1,1,1,289170,289170,289170,ene-2020,dic-2069,1,Bass (Modelo de difusión),0.01,0.12,1,Valor de sistemas costeros de https://www.sciencedirect.com/science/article/pii/S2212041612000101

@@ -1,0 +1,4 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3,
+CB01,Económico,Negativo,Costos,Costo adicional de fertilizante orgánico (biochar),,Anual,hectárea,1,1,1,182,182,182,ene-2020,dic-2039,,Lineal,,,,Diferencias de https://doi.org/10.1016/j.agee.2017.02.034
+CB02,Económico,Positivo,Ingresos,Productividad adicional en cultivo de maíz,,Anual,tonelada,1.157241379,0.9485172414,1.365965517,4091.4,4091.4,4091.4,ene-2020,dic-2039,,Lineal,,,,Diferencias de https://doi.org/10.1016/j.agee.2017.02.034 precios del maíz del SIAP
+CB03,Ambiental,Positivo,Externalidades,Emisiones evitadas,1,Anual,kCO2e,12.2,3.7,20.7,1.17,0.78,1.56,ene-2020,dic-2039,1,Lineal,,,,Diferencias de https://doi.org/10.1016/j.agee.2017.02.034 precio del carbono de http://documents.worldbank.org/curated/en/621721519940107694/pdf/2017-Shadow-Price-of-Carbon-Guidance-Note.pdf

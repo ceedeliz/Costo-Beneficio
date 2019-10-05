@@ -1,0 +1,13 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Económico,Negativo,Inversión,Cisterna rotoplas para almacenamiento de agua de 5000 litros,,Inicial (única vez),Cisterna,1,1,1,12600,15000,10000,ene-2020,feb-2020,0,Lineal,,,
+CB02,Económico,Negativo,Inversión,Kit de SCALL,,Inicial (única vez),Kit,1,1,1,9400,9400,9400,ene-2020,feb-2020,0,Lineal,,,
+CB03,Económico,Negativo,Inversión,Servicio de instalación del sistema incuyendo conexiones,,Inicial (única vez),Servicio,1,1,1,10000,11000,9000,ene-2020,feb-2020,0,Lineal,,,
+CB04,Económico,Negativo,Inversión,Acondicionamiento de techo e impermeabilizacion,,Inicial (única vez),m2,30,30,30,200,275,140,ene-2020,feb-2020,0,Lineal,,,
+CB05,Económico,Negativo,Mantenimiento,Reimpermeabilizacion de techo 1,,Inicial (única vez),m2,30,30,30,200,275,140,ene-2030,feb-2030,0,Lineal,,,
+CB06,Económico,Negativo,Mantenimiento,Reimpermeabilizacion de techo 2,,Inicial (única vez),m2,30,30,30,200,275,140,ene-2040,feb-2040,0,Lineal,,,
+CB07,Económico,Negativo,Mantenimiento,Reimpermeabilizacion de techo 3,,Inicial (única vez),m2,30,30,30,200,275,140,ene-2050,feb-2050,0,Lineal,,,
+CB08,Económico,Negativo,Mantenimiento,Lavado de cisterna,,Cada año,servicio,1,1,1,300,600,150,ene-2020,feb-2050,0,Lineal,,,
+CB09,Económico,Negativo,Repuestos,Repuesto de cartucho de filtrado,,Cada 6 meses,equipo,1,1,1,499,500,489,ene-2020,feb-2050,0,Lineal,,,
+CB10,Económico,Negativo,Repuestos,Repuesto de pastilla de carbon actividado,,Cada 6 meses,equipo,1,1,1,499,500,489,ene-2020,feb-2050,0,Lineal,,,
+CB11,Económico,Positivo,Ahorro en recibo,Reducción del consumo de agua anual,,Anual,Pesos,1,1,1,360,360,360,ene-2020,feb-2050,0,Lineal,,,
+CB12,Económico,Positivo,Ahorro en pipas,Reducción de la contratatación de pipas de agua,,Anual,pipas,24,32,12,1400,1400,1400,ene-2020,feb-2050,0,Lineal,,,

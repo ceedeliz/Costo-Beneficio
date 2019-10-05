@@ -1,0 +1,10 @@
+ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Ambiental,Positivo,Externalidades,reducción de emisiones ,1,Anual,ton,0.1,0.05,0.2,33000,20000,40000,ene-2020,ene-2025,1,Lineal,,,
+CB02,Económico,Negativo,Costos,Costos totales,,Anual,lote,1,1,1,5000,6000,4000,ene-2020,ene-2025,,Lineal,,,
+CB03,Económico,Negativo,Inversión Inicial,Inversión inicial,,Inicial (única vez),lote,1,1,1,200000000,400000000,150000000,ene-2020,ene-2025,,Lineal,,,
+CB04,Económico,Positivo,Ingresos,carton ,,Anual,ton,5475,2737.5,8212.5,5000,2500,5500,ene-2020,ene-2025,,Lineal,,,
+CB05,Económico,Positivo,ingresos,papel,,Anual,ton ,2738,1369,4107,110000,55000,121000,ene-2020,ene-2025,,Lineal,,,
+CB06,Económico,Positivo,ingresos,vidrio,,Anual,ton,1369,684.5,2053.5,40000,12000,44000,ene-2020,ene-2025,,Lineal,,,
+CB07,Económico,Positivo,ingresos,aluminio,,Anual,ton,456,228,684,500000,125000,600000,ene-2020,ene-2025,,Lineal,,,
+CB08,Económico,Positivo,ingresos,plastico,,Anual,ton,2737,1368.5,4105.5,60000,30000,66000,ene-2020,ene-2025,,Lineal,,,
+CB09,Económico,Negativo,equipamiento,compactadoras montacargas vascula quebradora etc,,Inicial (única vez),lote,1,1,1,100000000,200000000,80000000,ene-2020,ene-2025,,Lineal,,,

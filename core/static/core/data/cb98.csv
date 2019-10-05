@@ -1,0 +1,5 @@
+﻿ID,Tipo,Impacto,categoria,Detalles,prop,Frecuencia,Unidad_de_medida,Cantidad,Cant_pesimista,Cant_optimista,p,p_pes,p_opt,fecha_inicio,fecha_final,externalidad,modelo,coef1,coef2,coef3
+CB01,Económico,Negativo,Inversion inicial,Plantacion de Bamboo,0,Inicial (única vez),hectáreas,7,7,7,1000,1000,1000,ene-2020,feb-2020,0,Lineal,,,
+CB02,Económico,Negativo,Corta,Cosecha,0,Mensual,jornales,7,7,7,50,50,50,feb-2020,dic-2020,0,Lineal,,,
+CB03,Económico,Positivo,Venta,venta ,0,Mensual,toneladas,1,1,1,1020,1020,1020,feb-2020,dic-2020,0,Lineal,,,
+CB04,Ambiental,Positivo,Externalidades,captura de carbono,1,Mensual,kgs,26.3,26.3,26.3,1,1,1,feb-2020,dic-2020,1,Lineal,,,
